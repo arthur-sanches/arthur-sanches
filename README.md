@@ -1,17 +1,5 @@
 ### Hello World! 🌎 Tuta here! 👋
 
-<!--
-**arthur-sanches/arthur-sanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 😃 Meu nome é Arthur Sanches mas pode me chamar de Tuta
-- 🔭 Estou trabalhando no meu portfolio
-- 🌱 Atualmente estou estudando 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Um pouco sobre mim:
 ```python
@@ -20,9 +8,10 @@ tuta = {
     "ferramentas": ["Django", "Spring", "Docker", "PyQt", "Git"],
     "bandas favoritas": ["Daft Punk", "Caravan Palace", "Studio Killers", "Clean Bandit"],
     "hobbies": ["programar", "jogar um dotinha", "ouvir música", "tomar uma gelada"],
+    "desafio": "Estou fazendo o desafio #100DiasDeCodigo"
 }
 ```
-<!--"desafio": "Estou fazendo o desafio #100DiasDeCodigo focado em Python"-->
+
 [![tuta.codes](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.tuta.codes)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-h-r-sanches/)
 [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tuta.codes)
