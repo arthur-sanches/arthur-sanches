@@ -5,7 +5,7 @@ Um pouco sobre mim:
 ```python
 tuta = {
     "codigo": [Python, Java, Javascript, SQL, HTML, CSS],
-    "ferramentas": ["Django", "Spring", "Docker", "MongoDB", "Git", "PyQt"],
+    "ferramentas": [Django, Spring Boot, Docker, MongoDB, Git, PyQt],
     "bandas favoritas": ["Daft Punk", "Caravan Palace", "Studio Killers", "Clean Bandit"],
     "hobbies": ["programar", "dota 2", "ouvir música", "churrasco", "assistir o piratinha que estica"],
     "desafio": "Estou fazendo o desafio #100DiasDeCodigo"
