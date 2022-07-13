@@ -1,4 +1,4 @@
-### Hello World! 🌎 Tuta here! 👋
+### Hello World! <img src="https://media1.giphy.com/media/X6hiFJjvTDAAw/giphy.gif" width="29px" height="29px"> Tuta here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
 Um pouco sobre mim:
