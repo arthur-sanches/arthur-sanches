@@ -7,7 +7,7 @@ tuta = {
     "codigo": [Python, Java, Javascript, SQL, HTML, CSS],
     "ferramentas": [Django, Spring Boot, Docker, MongoDB, Git, PyQt],
     "bandas favoritas": ["Daft Punk", "Caravan Palace", "Studio Killers", "Clean Bandit"],
-    "hobbies": ["programar", "dota 2", "ouvir música", "churrasco", "assistir o piratinha que estica"],
+    "hobbies": ["programar", "dota 2", "ouvir música", "piratinha que estica"],
     "desafio": "Estou fazendo o desafio #100DiasDeCodigo"
 }
 ```
