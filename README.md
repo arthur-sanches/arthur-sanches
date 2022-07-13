@@ -1,11 +1,11 @@
-### Hello World! Tuta here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hello World! Tuta here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
-Um pouco sobre mim:
+## :ok_man: Um pouco sobre mim:
 ```python
 tuta = {
     "codigo": [Python, Java, Javascript, SQL, HTML, CSS],
-    "ferramentas": [Django, Spring Boot, Docker, MongoDB, Git, PyQt],
+    :tools: "ferramentas": [Django, Spring Boot, Docker, MongoDB, Git, PyQt],
     "bandas favoritas": ["Daft Punk", "Caravan Palace", "Studio Killers", "Clean Bandit"],
     "hobbies": ["programar", "dota 2", "ouvir música", "piratinha que estica"],
     "desafio": "Estou fazendo o desafio #100DiasDeCodigo"
