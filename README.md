@@ -4,11 +4,10 @@
 ## :ok_man: Um pouco sobre mim:
 ```python
 tuta = {
-    "codigo": [Python, Java, Javascript, SQL, HTML, CSS],
-    :tools: "ferramentas": [Django, Spring Boot, Docker, MongoDB, Git, PyQt],
+    "codigo": [Python, Java, Javascript, SQL],
+    "tecnologias": [Django, FastAPI, Docker, MongoDB, Git, PyQt, Spring Boot],
     "bandas favoritas": ["Daft Punk", "Caravan Palace", "Studio Killers", "Clean Bandit"],
-    "hobbies": ["programar", "dota 2", "ouvir música", "piratinha que estica"],
-    "desafio": "Estou fazendo o desafio #100DiasDeCodigo"
+    "hobbies": ["programar", "dota 2", "ouvir música", "piratinha que estica"]
 }
 ```
 
